@@ -1,0 +1,26 @@
+body { margin: 0; }
+
+header{
+    background-color: rgb(207, 168, 190);
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+}
+.container {width: 1400px;
+display: flex;
+flex-wrap: wrap;}
+
+
+.logo{width: 28%;}
+
+
+.menu {width: 70%;}
+
+section {display: flex;
+justify-content: center;}
+
+.col_1_2{width: 50%;}
+.col_1_2 div{ padding: 100px;
+ }
+
+img {max-width: 100%;}
